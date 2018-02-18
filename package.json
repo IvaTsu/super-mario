@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IvaTsu/super-mario/issues"
   },
-  "homepage": "https://github.com/IvaTsu/super-mario#readme"
+  "homepage": "https://github.com/IvaTsu/super-mario#readme",
+  "dependencies": {
+    "serve": "^6.4.10"
+  }
 }
